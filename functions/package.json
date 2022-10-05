@@ -18,6 +18,7 @@
     "firebase-admin": "^9.2.0",
     "firebase-functions": "^3.11.0",
     "natural": "^5.0.3",
+    "nodeenv": "^3.0.53",
     "spelling-corrector": "^3.0.0",
     "stopword": "^1.0.7",
     "twitter-v2": "^1.1.0"
